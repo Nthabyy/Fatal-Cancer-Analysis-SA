@@ -26,7 +26,8 @@ The data used in this analysis was sourced from statistics SA and cancer registr
 
 ---
 
-## Data Cleaning and Preprocessing
+## Handling missing values
+-- fillina and interpolate were applied
 
 ## Data Analysis
 
