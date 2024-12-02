@@ -28,18 +28,10 @@ The data used in this analysis was sourced from statistics SA and cancer registr
 
 ## Data Cleaning and Preprocessing
 
-The dataset undergoes several preprocessing steps to ensure it is ready for analysis:
-- **Handling Missing Data**: Missing or incomplete data entries are handled using imputation techniques or removal, depending on the severity.
-- **Data Transformation**: Categorical variables like cancer types and regions are encoded for easier analysis.
-
----
-
 ## Data Analysis
 
 Using **Python** and libraries such as **Pandas**, **NumPy**, and **Matplotlib**, we perform various analyses:
 - **Trend Analysis**: We examine how cancer mortality rates have changed over the years.
-- **Correlation Analysis**: Investigating the relationship between cancer types and patient demographics (e.g., age, gender).
-The analysis provides insights into the most prevalent types of cancer and the demographic groups most affected by them.
 
 ---
 
